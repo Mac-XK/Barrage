@@ -1,0 +1,17 @@
+Package: com.tainze.WC666
+Name: WC666
+Version: 0.1-1
+Description: 微信弹幕插件，当检测到"6"字符时自动显示横屏弹幕效果
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: MacXK
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon: 
+
